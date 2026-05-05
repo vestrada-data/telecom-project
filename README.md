@@ -1,8 +1,8 @@
-###Análisis de una empresa de telecomunicaciones  - Sprint 7
+### Análisis de una empresa de telecomunicaciones  - Sprint 7
 
 Este repositorio contiene el análisis del caso ConnectaTel.
 
-##🎯 Objetivo General
+ ## 🎯 Objetivo General
 
 El objetivo del es identificar patrones de uso, detectar comportamientos atípicos y comprender qué segmentos de clientes muestran necesidades diferenciadas, con el fin de optimizar la oferta comercial y mejorar la experiencia del usuario.
 
