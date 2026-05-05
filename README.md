@@ -1,8 +1,16 @@
-# EverPeak Retail Analysis – Sprint 6
+# Análisis de una empresa de telecomunicaciones  - Sprint 7
 
-Este repositorio contiene el análisis realizado durante el Sprint 6 del caso EverPeak–SilverBasket.
+Este repositorio contiene el análisis del caso ConnectaTel.
 
-El dataset `everpeak_retail` incluye 2,000 órdenes de clientes con valores faltantes, sentinels, outliers y problemas de calidad diseñados para simular datos reales del retail. :contentReference[oaicite:2]{index=2}
+
+
+Trabajarás con tres datasets principales de información, relacionadas con usuarios, actividad y planes del servicio de telecomunicaciones:
+
+**plans.csv:** Catálogo de planes con sus precios y beneficios. <br>
+**users_latam.csv:**  Información de cada usuario (datos personales, plan, fecha de registro, churn). <br>
+**usage.csv:** Actividad generada por los usuarios: llamadas, mensajes, duración, longitud. <br>
+
+El dataset connectaTel` incluye  40,000 registros con valores faltantes, sentinels, outliers y problemas de calidad diseñados para simular datos reales del retail. :contentReference[oaicite:2]{index=2}
 
 ## 📂 Contenido del repositorio
 
