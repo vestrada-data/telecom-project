@@ -2,7 +2,9 @@
 
 Este repositorio contiene el análisis del caso ConnectaTel.
 
+🎯 Objetivo General
 
+El objetivo del es identificar patrones de uso, detectar comportamientos atípicos y comprender qué segmentos de clientes muestran necesidades diferenciadas, con el fin de optimizar la oferta comercial y mejorar la experiencia del usuario.
 
 Trabajarás con tres datasets principales de información, relacionadas con usuarios, actividad y planes del servicio de telecomunicaciones:
 
@@ -14,14 +16,21 @@ El dataset connectaTel` incluye  40,000 registros con valores faltantes, sentine
 
 ## 📂 Contenido del repositorio
 
-- `notebooks/everpeak.ipynb`
+- `notebooks/connectaTel.ipynb`
   → Notebook principal con limpieza, EDA, distribuciones, outliers y conclusiones.
+
+  ## 🧠 Objetivo del análisis
+
+- Identificar problemas de calidad de datos
+- Construir un pipeline de limpieza reproducible
+- Analizar comportamientos, distribuciones y outliers
+- Generar insights para el equipo de Estrategia e
 
 ## ▶ Cómo abrir el notebook en Google Colab
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/vestrada-data/everpeak-analysis/blob/main/everpeak.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/vestrada-data/everpeak-analysis/blob/main/connectaTel.ipynb)
 
 O:
 
@@ -30,13 +39,8 @@ O:
 
 ## 📘 Cómo reproducir el análisis
 
-1. Abre `notebooks/everpeak.ipynb`
+1. Abre `notebooks/connectaTel.ipynb`
 2. Ejecuta las celdas en orden
 3. El notebook carga automáticamente el dataset desde `/data/` o desde un enlace público (según corresponda)
 
-## 🧠 Objetivo del análisis
 
-- Identificar problemas de calidad de datos
-- Construir un pipeline de limpieza reproducible
-- Analizar comportamientos, distribuciones y outliers
-- Generar insights para el equipo de Estrategia e
