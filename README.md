@@ -4,9 +4,9 @@ Este repositorio contiene el análisis del caso ConnectaTel.
 
  ## 🎯 Objetivo General
 
-El objetivo del es identificar patrones de uso, detectar comportamientos atípicos y comprender qué segmentos de clientes muestran necesidades diferenciadas, con el fin de optimizar la oferta comercial y mejorar la experiencia del usuario.
+El objetivo es identificar patrones de uso, detectar comportamientos atípicos y comprender qué segmentos de clientes muestran necesidades diferenciadas, con el fin de optimizar la oferta comercial y mejorar la experiencia del usuario.
 
-Trabajarás con tres datasets principales de información, relacionadas con usuarios, actividad y planes del servicio de telecomunicaciones:
+Trabajaremos con tres datasets principales de información, relacionadas con usuarios, actividad y planes del servicio de telecomunicaciones:
 
 *plans.csv:*  Catálogo de planes con sus precios y beneficios. <br>
 *users_latam.csv:*  Información de cada usuario (datos personales, plan, fecha de registro, churn). <br>
@@ -22,10 +22,13 @@ Contamos con  40,000 registros con valores faltantes, sentinels, outliers y prob
   ## 🧠 Objetivo del análisis
 
 - Identificar problemas de calidad de datos
-- Construir un pipeline de limpieza reproducible
+- Limpieza  básica (reemplazarsentinels, convertir fechas, impitar o marcar NA)
+- Summary statistics
+- Visualización & outliers
+- Segmentación
 - Analizar comportamientos, distribuciones y outliers
-- Generar insights para el equipo de Estrategia e
-
+- Generar insights para Stakeholders
+  
 ## ▶ Cómo abrir el notebook en Google Colab
 
 Haz clic en el siguiente botón:
