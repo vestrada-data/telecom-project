@@ -1,18 +1,18 @@
-# Análisis de una empresa de telecomunicaciones  - Sprint 7
+###Análisis de una empresa de telecomunicaciones  - Sprint 7
 
 Este repositorio contiene el análisis del caso ConnectaTel.
 
-🎯 Objetivo General
+##🎯 Objetivo General
 
 El objetivo del es identificar patrones de uso, detectar comportamientos atípicos y comprender qué segmentos de clientes muestran necesidades diferenciadas, con el fin de optimizar la oferta comercial y mejorar la experiencia del usuario.
 
 Trabajarás con tres datasets principales de información, relacionadas con usuarios, actividad y planes del servicio de telecomunicaciones:
 
-**plans.csv:** Catálogo de planes con sus precios y beneficios. <br>
-**users_latam.csv:**  Información de cada usuario (datos personales, plan, fecha de registro, churn). <br>
-**usage.csv:** Actividad generada por los usuarios: llamadas, mensajes, duración, longitud. <br>
+*plans.csv:*  Catálogo de planes con sus precios y beneficios. <br>
+*users_latam.csv:*  Información de cada usuario (datos personales, plan, fecha de registro, churn). <br>
+*usage.csv* Actividad generada por los usuarios: llamadas, mensajes, duración, longitud. <br>
 
-El dataset connectaTel` incluye  40,000 registros con valores faltantes, sentinels, outliers y problemas de calidad diseñados para simular datos reales del retail. :contentReference[oaicite:2]{index=2}
+Contamos con  40,000 registros con valores faltantes, sentinels, outliers y problemas de calidad diseñados para simular datos reales.
 
 ## 📂 Contenido del repositorio
 
@@ -30,7 +30,7 @@ El dataset connectaTel` incluye  40,000 registros con valores faltantes, sentine
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/vestrada-data/everpeak-analysis/blob/main/connectaTel.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/vestrada-data/telecom-project/blob/main/connectaTel.ipynb)
 
 O:
 
