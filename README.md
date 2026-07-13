@@ -22,7 +22,7 @@ Contamos con  40,000 registros con valores faltantes, sentinels, outliers y prob
   ## 🧠 Objetivo del análisis
 
 - Identificar problemas de calidad de datos
-- Limpieza  básica (reemplazarsentinels, convertir fechas, impitar o marcar NA)
+- Limpieza  básica (reemplazar sentinels, convertir fechas, impitar o marcar NA)
 - Summary statistics
 - Visualización & outliers
 - Segmentación
