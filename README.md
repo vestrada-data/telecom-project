@@ -33,7 +33,7 @@ Contamos con  40,000 registros con valores faltantes, sentinels, outliers y prob
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab])(https://colab.research.google.com/drive/11yrhUvfrQaq69nP1ZmriXNMOP2RkErim#scrollTo=ee7c578d)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11yrhUvfrQaq69nP1ZmriXNMOP2RkErim#scrollTo=ee7c578d)
 
 
 O:
