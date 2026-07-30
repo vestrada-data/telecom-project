@@ -1,4 +1,4 @@
-### Análisis de una empresa de telecomunicaciones  - Sprint 7
+# Análisis de una empresa de telecomunicaciones  - Sprint 7
 
 Este repositorio contiene el análisis del caso ConnectaTel.
 
