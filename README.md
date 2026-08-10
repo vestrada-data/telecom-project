@@ -14,12 +14,13 @@ Trabajaremos con tres datasets principales de información, relacionadas con usu
 
 Contamos con  40,000 registros con valores faltantes, sentinels, outliers y problemas de calidad diseñados para simular datos reales.
 
-## 📂 Contenido del repositorio
+## 🛠️ Herramientas Utilizadas
+Python (Pandas, NumPy), SQL, Power BI (DAX, Power Query), Modelado ETL, Data Storytelling.
 
-- `notebooks/connectaTel.ipynb`
-  → Notebook principal con limpieza, EDA, distribuciones, outliers y conclusiones.
 
-  ## 🧠 Objetivo del análisis
+## KPIs monitoreados
+
+## 🧠 Objetivo del análisis
 
 - Identificar problemas de calidad de datos
 - Limpieza  básica (reemplazar sentinels, convertir fechas, impitar o marcar NA)
