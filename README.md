@@ -15,13 +15,11 @@ Trabajaremos con tres datasets principales de información, relacionadas con usu
 Contamos con  40,000 registros con valores faltantes, sentinels, outliers y problemas de calidad diseñados para simular datos reales.
 
 ## 🛠️ Herramientas Utilizadas
-Python (Pandas, NumPy), SQL, Power BI (DAX, Power Query), Modelado ETL, Data Storytelling.
-
+Python (Pandas, Matplotlib, Seaborn)
 
 ## KPIs monitoreados
 
 ## 🧠 Objetivo del análisis
-
 - Identificar problemas de calidad de datos
 - Limpieza  básica (reemplazar sentinels, convertir fechas, impitar o marcar NA)
 - Summary statistics
@@ -31,20 +29,10 @@ Python (Pandas, NumPy), SQL, Power BI (DAX, Power Query), Modelado ETL, Data Sto
 - Generar insights para Stakeholders
   
 ## ▶ Cómo abrir el notebook en Google Colab
-
 Haz clic en el siguiente botón:
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11yrhUvfrQaq69nP1ZmriXNMOP2RkErim#scrollTo=ee7c578d)
 
 
-O:
-
-1. Abre el archivo `connectaTel.ipynb` en GitHub
-2. Haz clic en **Open in Colab**
-
-## 📘 Cómo reproducir el análisis
-
-1. Abre `notebooks/connectaTel.ipynb`
 2. Ejecuta las celdas en orden
 3. El notebook carga automáticamente el dataset desde `/data/` o desde un enlace público (según corresponda)
 
