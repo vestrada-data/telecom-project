@@ -55,10 +55,10 @@ También es importante considerar que el aumento en el número de usuarios que g
 <img width="612" height="371" alt="Distribucion Mensajes" src="https://github.com/user-attachments/assets/a246bb97-bfde-4992-8b52-cd050165eea3" /><img width="553" height="363" alt="Minutos Llamada" src="https://github.com/user-attachments/assets/6e51fa28-c2bc-46da-b931-0f0e4126c114" /></p>
 
 ## Recomendaciones
-a) Identificar a los usuarios del segmento de Alto uso que actualmente tienen planes básicos y ofréceles una actualización a un plan Premium para generar un mayor ingreso promedio por usuario.
-b) Dado que los usuarios del segmento Adulto Mayor son el segundo grupo más grande, se podrían diseñar planes con beneficios específicos como redes sociales ilimitadas, para asegurar su lealtad
-c) Dirigir campañas publicitarias al segmento Adulto que es el de mayor volumen.
-d) ConnectaTel podría lanzar promociones enfocadas en datos móviles al segmento Joven que es el de menor volumen.
+a) Identificar a los usuarios del segmento de Alto uso que actualmente tienen planes básicos y ofréceles una actualización a un plan Premium para generar un mayor ingreso promedio por usuario.<br>
+b) Dado que los usuarios del segmento Adulto Mayor son el segundo grupo más grande, se podrían diseñar planes con beneficios específicos como redes sociales ilimitadas, para asegurar su lealtad.<br>
+c) Dirigir campañas publicitarias al segmento Adulto que es el de mayor volumen.<br>
+d) ConnectaTel podría lanzar promociones enfocadas en datos móviles al segmento Joven que es el de menor volumen.<br>
 e) Investigar si hay usuarios del segmento Alto uso que utilizan su línea personal para fines profesionales, lo que abre la puerta para crear productos específicos para microempresas.
 
  
